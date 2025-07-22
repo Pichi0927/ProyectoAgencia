@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\Proyecto Final Programacion 03\\SistemaAgencia\\SistemaAgencia.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\SistemaAgencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\Proyecto Final Programacion 03\\SistemaAgencia\\SistemaAgencia.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\SistemaAgencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Proyecto Final Programacion 03\\SistemaAgencia\\SistemaAgencia.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\SistemaAgencia.csproj",
         "projectName": "SistemaAgencia",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Proyecto Final Programacion 03\\SistemaAgencia\\SistemaAgencia.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\SistemaAgencia.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Proyecto Final Programacion 03\\SistemaAgencia\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
