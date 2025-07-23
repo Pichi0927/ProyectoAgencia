@@ -189,8 +189,6 @@ C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\S
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\SistemaAgencia.pdb
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\EntityFramework.SqlServer.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\EntityFramework.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\Microsoft.Build.Locator.dll
@@ -235,7 +233,6 @@ C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\S
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\System.Formats.Asn1.dll
@@ -319,11 +316,6 @@ C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\r
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Administrador\Desktop\ProyectoAgencia\SistemaAgencia\obj\Debug\net8.0\SistemaAgencia.csproj.AssemblyReference.cache

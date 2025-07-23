@@ -9,9 +9,8 @@ namespace SistemaAgencia.Models
         {
         }
 
-     
-        public DbSet<PaisViewModel> Pais { get; set; }
-        public DbSet<TourViewModel> Tour { get; set; }
-        public DbSet<DestinoViewModel> Destino  { get; set; }
+        public DbSet<PaisViewModel> Paises { get; set; }
+        public DbSet<TourViewModel> Tours { get; set; }
+        public DbSet<DestinoViewModel> Destinos { get; set; }
     }
 }
