@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\migrations\\agenciadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:migrations\\agenciadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\agenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\agenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\controllers\\destinoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:controllers\\destinoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\migrations\\20250722015238_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:migrations\\20250722015238_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\data\\agenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:data\\agenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\destinoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\destinoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|c:\\users\\administrador\\desktop\\proyectoagencia\\sistemaagencia\\models\\paisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AAF4D9-F4F0-43DD-9E65-B80B22D04CE3}|SistemaAgencia.csproj|solutionrelative:models\\paisviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgenciaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\AgenciaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AgenciaDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\AgenciaDbContext.cs",
+              "RelativeToolTip": "Models\\AgenciaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:00:50.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:57:25.716Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -58,102 +84,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgenciaDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Migrations\\AgenciaDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\AgenciaDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Migrations\\AgenciaDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\AgenciaDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:22:50.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tour.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\Tour.cs",
-              "RelativeDocumentMoniker": "Models\\Tour.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\Tour.cs",
-              "RelativeToolTip": "Models\\Tour.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:21:40.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestinoesController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Controllers\\DestinoesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DestinoesController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Controllers\\DestinoesController.cs",
-              "RelativeToolTip": "Controllers\\DestinoesController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAqwKQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:58:38.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PaisController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Controllers\\PaisController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaisController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Controllers\\PaisController.cs",
-              "RelativeToolTip": "Controllers\\PaisController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TourViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\TourViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TourViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\TourViewModel.cs",
+              "RelativeToolTip": "Models\\TourViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:57:28.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250722015238_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Migrations\\20250722015238_Inicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250722015238_Inicial.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Migrations\\20250722015238_Inicial.cs",
-              "RelativeToolTip": "Migrations\\20250722015238_Inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:52:39.228Z"
+              "WhenOpened": "2025-07-23T01:53:08.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T01:39:26.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AgenciaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Data\\AgenciaDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AgenciaDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Data\\AgenciaDbContext.cs",
-              "RelativeToolTip": "Data\\AgenciaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "DestinoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\DestinoViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DestinoViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\DestinoViewModel.cs",
+              "RelativeToolTip": "Models\\DestinoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:40:46.349Z"
+              "WhenOpened": "2025-07-23T01:39:52.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PaisViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\PaisViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\PaisViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\PaisViewModel.cs",
+              "RelativeToolTip": "Models\\PaisViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:38:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T01:13:24.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
               "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T00:13:07.537Z"
+              "WhenOpened": "2025-07-22T00:13:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ProyectoAgencia\\SistemaAgencia\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T01:39:26.668Z",
+              "EditorCaption": ""
             }
           ]
         }

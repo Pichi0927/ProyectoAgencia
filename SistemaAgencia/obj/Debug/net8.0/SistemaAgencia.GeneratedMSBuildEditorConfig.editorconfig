@@ -28,52 +28,12 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Destinoes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub2VzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Destinoes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub2VzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Destinoes/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub2VzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Destinoes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub2VzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Destinoes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGlub2VzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Pais/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Pais/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Pais/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Pais/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Pais/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Administrador/Desktop/ProyectoAgencia/SistemaAgencia/Views/Shared/Error.cshtml]
